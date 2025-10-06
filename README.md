@@ -9,6 +9,22 @@
 
 ---
 
+<h3 align="center">🧰 Tools & Technologies</h3>
+<div align="center">  
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-Scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-Matplotlib-2067b8?style=for-the-badge&logo=python" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-Seaborn-10069F?style=for-the-badge" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-re-ff69b4?style=for-the-badge" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-Collections-9cf?style=for-the-badge" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 4px;" />  
+  <img src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" style="margin: 4px;" />  
+</div>  
+
+---
+
 ## 📘 Project Overview
 The **Job-Market Recommender System** matches **job seekers** with relevant jobs based on **skills, education, and experience**.  
 It also highlights **skill gaps**, **salary mismatches**, and **labour market inefficiencies**.
