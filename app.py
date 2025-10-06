@@ -7,6 +7,7 @@ from collections import Counter
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
+#Load clean data
 clean_df = pd.read_csv("C:/Users/Priyalakshmi/Downloads/postings.csv/clean_postings.csv")
 clean_df.head()
 
