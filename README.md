@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center">🧰 Tools & Technologies</h3>
+<h3 align="center">Tools & Technologies</h3>
 <div align="center">  
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" style="margin: 4px;" />  
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" style="margin: 4px;" />  
@@ -25,13 +25,13 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 The **Job-Market Recommender System** matches **job seekers** with relevant jobs based on **skills, education, and experience**.  
 It also highlights **skill gaps**, **salary mismatches**, and **labour market inefficiencies**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Content-based matching of candidate skills with job postings  
 - Extract and analyze in-demand skills using **NLP**  
 - Identify skill gaps and salary differences  
@@ -39,8 +39,8 @@ It also highlights **skill gaps**, **salary mismatches**, and **labour market in
 
 ---
 
-## 🧠 Methodology
-1. **Data Collection:** Job postings (`postings.csv`) & candidate resumes  
+## Methodology
+1. **Data Collection:** Job postings (`all_job_skills.csv`) & candidate resumes  
 2. **Data Cleaning:** Handle missing values, tokenize and normalize text, standardize salaries  
 3. **Feature Engineering:** TF-IDF vectorization, spaCy noun extraction, embeddings  
 4. **Modeling:**  
@@ -52,14 +52,14 @@ It also highlights **skill gaps**, **salary mismatches**, and **labour market in
 
 ---
 
-## 🧩 Models Used
+## Models Used
 - **TF-IDF:** Vectorize job descriptions and skills  
 - **Cosine Similarity:** Match candidates with jobs  
 - **K-Means Clustering:** Identify job clusters by skill requirements  
 
 ---
 
-## 🧰 Libraries Used
+## Libraries Used
 | Category | Libraries |
 |----------|-----------|
 | Data Handling | `pandas`, `numpy` |
@@ -70,7 +70,7 @@ It also highlights **skill gaps**, **salary mismatches**, and **labour market in
 
 ---
 
-## 💡 How It Works
+## How It Works
 1. Upload and clean job posting dataset  
 2. Extract skills using NLP  
 3. Candidate enters their skill profile  
@@ -78,28 +78,7 @@ It also highlights **skill gaps**, **salary mismatches**, and **labour market in
 5. Display top job recommendations  
 6. Visualize trends and clusters  
 
----
-
-## 📊 Example Insights
-- **Top Skills:** Python, SQL, Excel, Communication, Data Analysis  
-- **Salary Trends:** Data roles in California pay 1.5× more than Midwest  
-- **Skill Gaps:** High demand for ML and cloud computing skills  
-
----
-
-## 🚀 Future Enhancements
-- Resume parsing with transformers (BERT)  
-- Hybrid recommenders learning user preferences  
-- Forecast emerging skill demands  
-- Interactive dashboards (Streamlit / Dash)  
-
----
 
 ## 👩‍💻 Contributors
 - **Priyalakshmi**  
 - **Karismaa**  
-
----
-
-## 🏁 Conclusion
-This system bridges the gap between **education** and **employment**, providing actionable insights for **career guidance** and **policy formulation**.
