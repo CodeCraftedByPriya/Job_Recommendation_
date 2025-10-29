@@ -153,6 +153,6 @@ The system then displays:
 ---
 
 ## Contributors
-- **Priyalakshmi S.P.**  
-- **Karismaa**
+- **Priyalakshmi SP**  
+- **Karismaa Sheth**
 
